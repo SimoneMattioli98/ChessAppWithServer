@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ChessApp</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="gallery">Gallery</string>
+    <string name="tick">✓</string>
+    <string name="cancel">✖</string>
+    <string name="play">PLAY</string>
+    <string name="deepchess">DeepChess</string>
+    <string name="camera">Camera</string>
+    <string name="get_your_image">Get your image</string>
+    <string name="predict_white">Predict White</string>
+    <string name="predict_black">Predict Black</string>
+    <string-array name="pieces_array">
+        <item>Queen</item>
+        <item>King</item>
+        <item>Pawn</item>
+        <item>Knight</item>
+        <item>Empty</item>
+        <item>Bishop</item>
+        <item>Rook</item>
+    </string-array>
+    <string-array name="colors_array">
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category</string>
+    <string name="color">Color</string>
+    <string name="sample">Sample</string>
+</resources>
